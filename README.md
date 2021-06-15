@@ -1,5 +1,5 @@
 # Proyecto Escuela
-Proyecto para ver si pasamos el ciclo
+### Proyecto para ver si pasamos el ciclo
 
 | **Carrera:** Computación, Ing. de Sistemas | **Asignatura:** Ingenieria de Software |
 
